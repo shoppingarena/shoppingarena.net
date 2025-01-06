@@ -1,0 +1,76 @@
+# TO-DO.md
+
+- [ ]Sketch desing with Tailwindcss
+
+- [ ]Landing page
+    - About
+    - Services
+    - Contact
+    - Blog
+    - Pricing
+    - Testimonials
+    - FAQ
+    - Privacy Policy
+    - Terms of Service
+    - Cookies Policy
+    - Sitemap
+    - 404 Page
+    - 500 Page
+    - 403 Page
+    - 401 Page
+    - 400 Page
+    - 405 Page
+    - 406 Page
+    - 407 Page
+    - 408 Page
+    - 409 Page
+    - 410 Page
+    - 411 Page
+    - 412 Page
+    - 413 Page
+    - 414 Page
+    - 415 Page
+    - 416 Page
+    - 417 Page
+    - 421 Page
+    - 422 Page
+    - 423 Page
+    - 424 Page
+    - 425 Page
+    - 426 Page
+    - 428 Page
+    - 429 Page
+    - 431 Page
+    - 451 Page
+    - 501 Page
+    - 502 Page
+    - 503 Page
+    - 504 Page
+    - 505 Page
+    - 506 Page
+    - 507 Page
+    - 508 Page
+    - 509 Page
+    - 510 Page
+    - 511 Page
+    - 520 Page
+    - 521 Page
+    - 522 Page
+    - 523 Page
+    - 524 Page
+    - 525 Page
+    - 526 Page
+    - 530 Page
+    - 598 Page
+    - 599 Page
+
+
+- [ ] Add a `--version` flag to the CLI
+- [ ] Add a `--help` flag to the CLI
+- [ ] Add a `--verbose` flag to the CLI
+- [ ] Add a `--quiet` flag to the CLI
+- [ ] Add a `--debug` flag to the CLI
+- [ ] Add a `--config` flag to the CLI
+- [ ] Add a `--no-config` flag to the CLI
+- [ ] Add a `--no-cache` flag to the CLI
+- [ ] Add a `--no-color` flag to the CLI
