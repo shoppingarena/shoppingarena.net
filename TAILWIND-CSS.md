@@ -24,3 +24,5 @@ mv tailwindcss-linux-x64 tailwindcss
 # Compile and minify your CSS for production
 ./tailwindcss -i input.css -o output.css --minify
 ```
+
+## 2. Tailwind Build process
